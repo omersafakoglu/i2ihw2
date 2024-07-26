@@ -1,6 +1,8 @@
 # Hazelcast Oracle Comparison
 
 
+Here , we will explore the performance differences between Hazelcast and Oracle SQL by comparing their execution times for inserting and retrieving data sets of various sizes, highlighting the key learnings and practical applications of using an In-Memory Data Grid versus traditional SQL databases.
+
 # Hazelcast 20000 Results
 <img width="378" alt="Hazel20kCıktı" src="https://github.com/user-attachments/assets/afdd44a0-9195-43e1-9954-dd85c2cc87fc">
 
